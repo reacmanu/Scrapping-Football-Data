@@ -1,4 +1,4 @@
-# Getting-Football-Data
+# Scrapping-Football-Data
 Getting Football data without Web Scrapping
 Every minute of a football match generates data that can be used to get high-quality insights that could power player recruitment, and match analysis and help coaches make better decisions.
 
